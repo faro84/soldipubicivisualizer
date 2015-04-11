@@ -1,0 +1,240 @@
+{
+"name": "italia",
+"children": [
+    {
+    "name": "NORD-OCCIDENTALE",
+    "children": [
+    {
+    "name": "PIEMONTE",
+    "children": [
+    {"name": "Torino","size":19},
+    {"name": "Vercelli","size":85},
+    {"name": "Novara","size":36},
+    {"name": "Cuneo","size":79},
+    {"name": "Asti","size":46},
+    {"name": "Alessandria","size":48},
+    {"name": "Biella","size":45},
+    {"name": "Verbano-Cusio-Ossola","size":90}
+    ]
+    },
+    {
+    "name": "VALLE D'AOSTA",
+    "children": [
+    {"name": "Valle d'Aosta","size":43}
+    ]
+    },
+    {
+    "name": "LOMBARDIA",
+    "children": [
+    {"name": "Varese","size":30},
+    {"name": "Como","size":19},
+    {"name": "Sondrio","size":19},
+    {"name": "Milano","size":49},
+    {"name": "Bergamo","size":62},
+    {"name": "Brescia","size":99},
+    {"name": "Pavia","size":12},
+    {"name": "Cremona","size":95},
+    {"name": "Mantova","size":19},
+    {"name": "Lecco","size":49},
+    {"name": "Lodi","size":80},
+    {"name": "MONZA - BRIANZA","size":64}
+    ]
+    },
+    {
+    "name": "LIGURIA",
+    "children": [
+    {"name": "Imperia","size":78},
+    {"name": "Savona","size":36},
+    {"name": "Genova","size":76},
+    {"name": "La Spezia","size":95}
+    ]
+    }
+    ]
+    },
+    {
+    "name": " INSULARE",
+    "children": [
+    {
+    "name": "SICILIA",
+    "children": [
+    {"name": "Trapani","size":90},
+    {"name": "Palermo","size":63},
+    {"name": "Messina","size":36},
+    {"name": "Agrigento","size":63},
+    {"name": "Caltanissetta","size":54},
+    {"name": "Enna","size":34},
+    {"name": "Catania","size":47},
+    {"name": "Ragusa","size":43},
+    {"name": "Siracusa","size":92}
+    ]
+    },
+    {
+    "name": "SARDEGNA",
+    "children": [
+    {"name": "Sassari","size":5},
+    {"name": "Nuoro","size":89},
+    {"name": "Cagliari","size":76},
+    {"name": "Oristano","size":72},
+    {"name": "Olbia-Tempio","size":65},
+    {"name": "Ogliastra","size":63},
+    {"name": "Medio Campidano","size":22},
+    {"name": "Carbonia-Iglesias","size":31}
+    ]
+    }
+    ]
+    },
+    {
+    "name": "NORD-ORIENTALE",
+    "children": [
+    {
+    "name": "TRENTINO-ALTO ADIGE",
+    "children": [
+    {"name": "Bolzano - Bozen","size":18},
+    {"name": "Trento","size":45}
+    ]
+    },
+    {
+    "name": "VENETO",
+    "children": [
+    {"name": "Verona","size":7},
+    {"name": "Vicenza","size":92},
+    {"name": "Belluno","size":93},
+    {"name": "Treviso","size":82},
+    {"name": "Venezia","size":73},
+    {"name": "Padova","size":29},
+    {"name": "Rovigo","size":98}
+    ]
+    },
+    {
+    "name": "FRIULI-VENEZIA GIULIA",
+    "children": [
+    {"name": "Udine","size":27},
+    {"name": "Gorizia","size":53},
+    {"name": "Trieste","size":36},
+    {"name": "Pordenone","size":18}
+    ]
+    },
+    {
+    "name": "EMILIA-ROMAGNA",
+    "children": [
+    {"name": "Piacenza","size":30},
+    {"name": "Parma","size":33},
+    {"name": "Reggio nell'Emilia","size":75},
+    {"name": "Modena","size":31},
+    {"name": "Bologna","size":7},
+    {"name": "Ferrara","size":14},
+    {"name": "Ravenna","size":40},
+    {"name": "Forli'-Cesena","size":31},
+    {"name": "Rimini","size":84}
+    ]
+    }
+    ]
+    },
+    {
+    "name": "MERIDIONALE",
+    "children": [
+    {
+    "name": "ABRUZZO",
+    "children": [
+    {"name": "L'Aquila","size":90},
+    {"name": "Teramo","size":8},
+    {"name": "Pescara","size":86},
+    {"name": "Chieti","size":24}
+    ]
+    },
+    {
+    "name": "MOLISE",
+    "children": [
+    {"name": "Campobasso","size":24},
+    {"name": "Isernia","size":49}
+    ]
+    },
+    {
+    "name": "CAMPANIA",
+    "children": [
+    {"name": "Caserta","size":50},
+    {"name": "Benevento","size":7},
+    {"name": "Napoli","size":78},
+    {"name": "Avellino","size":85},
+    {"name": "Salerno","size":59}
+    ]
+    },
+    {
+    "name": "PUGLIA",
+    "children": [
+    {"name": "Foggia","size":4},
+    {"name": "Bari","size":64},
+    {"name": "Taranto","size":40},
+    {"name": "Brindisi","size":26},
+    {"name": "Lecce","size":5},
+    {"name": "Barletta Andria e Trani","size":15}
+    ]
+    },
+    {
+    "name": "BASILICATA",
+    "children": [
+    {"name": "Potenza","size":80},
+    {"name": "Matera","size":51}
+    ]
+    },
+    {
+    "name": "CALABRIA",
+    "children": [
+    {"name": "Cosenza","size":86},
+    {"name": "Catanzaro","size":4},
+    {"name": "Reggio di Calabria","size":6},
+    {"name": "Crotone","size":15},
+    {"name": "Vibo Valentia","size":1}
+    ]
+    }
+    ]
+    },
+    {
+    "name": "CENTRALE",
+    "children": [
+    {
+    "name": "TOSCANA",
+    "children": [
+    {"name": "Massa-Carrara","size":59},
+    {"name": "Lucca","size":56},
+    {"name": "Pistoia","size":36},
+    {"name": "Firenze","size":22},
+    {"name": "Livorno","size":66},
+    {"name": "Pisa","size":45},
+    {"name": "Arezzo","size":22},
+    {"name": "Siena","size":32},
+    {"name": "Grosseto","size":24},
+    {"name": "Prato","size":33}
+    ]
+    },
+    {
+    "name": "UMBRIA",
+    "children": [
+    {"name": "Perugia","size":22},
+    {"name": "Terni","size":92}
+    ]
+    },
+    {
+    "name": "MARCHE",
+    "children": [
+    {"name": "Pesaro Urbino","size":39},
+    {"name": "Ancona","size":32},
+    {"name": "Macerata","size":24},
+    {"name": "Ascoli Piceno","size":35},
+    {"name": "FERMO","size":9}
+    ]
+    },
+    {
+    "name": "LAZIO",
+    "children": [
+    {"name": "Viterbo","size":38},
+    {"name": "Rieti","size":51},
+    {"name": "Roma","size":23},
+    {"name": "Latina","size":47},
+    {"name": "Frosinone","size":40}
+    ]
+    }
+    ]
+    }
+]
+}
